@@ -1,4 +1,4 @@
-package com.dileep.SpringSecurityProject.Controller;
+package com.dileep.SpringSecurityProject.model;
 
 public class Student {
     private int id;
