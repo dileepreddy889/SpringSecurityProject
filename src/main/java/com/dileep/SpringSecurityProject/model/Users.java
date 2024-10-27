@@ -42,5 +42,5 @@ public class Users {
                 ", name='" + username + '\'' +
                 ", password='" + password + '\'' +
                 '}';
-    }
+     }
 }
